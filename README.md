@@ -1,2 +1,3 @@
 # carousel
-Carousel implementation using vanilla JS
+Carousel implementation using vanilla JS.
+
